@@ -1,6 +1,6 @@
 package za.ac.cput.factory;
 
-import org.junit.Test;
+
 import org.junit.jupiter.api.Test;
 import za.ac.cput.domain.TimeSlot;
 import java.time.LocalTime;
