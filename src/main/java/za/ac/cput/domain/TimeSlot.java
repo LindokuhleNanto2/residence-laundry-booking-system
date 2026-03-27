@@ -1,3 +1,9 @@
+/*
+ * Name:Libolwethu Nonkenke
+ *Student Nr: 222665963
+ * Date: 16 March 2026  */
+
+
 package za.ac.cput.domain;
 import java.time.LocalTime;
 public class TimeSlot {

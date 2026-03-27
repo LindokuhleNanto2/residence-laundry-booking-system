@@ -1,3 +1,10 @@
+/*
+ *
+ * Author:Muso Nkuntsu
+ * Student Nr:231223722
+ * Date : 14 March 2026
+ * */
+
 package za.ac.cput.domain;
 
 import java.util.Objects;

@@ -1,3 +1,9 @@
+/*
+ * Name:Lindokuhle Nanto
+ * Student Nr:240443608
+ * Date: 20 March 2026
+ * */
+
 package za.ac.cput.factory;
 import za.ac.cput.domain.LaundryMachine;
 import za.ac.cput.domain.MachineStatus;

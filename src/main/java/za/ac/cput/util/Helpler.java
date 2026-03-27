@@ -1,3 +1,10 @@
+/*
+ *
+ * Author:Muso Nkuntsu
+ * Student Nr:231223722
+ * Date: 17 March 2026
+ * */
+
 package za.ac.cput.util;
 import java.util.regex.Pattern;
 

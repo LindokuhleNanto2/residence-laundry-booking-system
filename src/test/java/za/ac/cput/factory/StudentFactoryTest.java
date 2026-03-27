@@ -1,3 +1,10 @@
+/*
+ *
+ * Author:Muso Nkuntsu
+ * Student Nr:231223722
+ * Date: 20 March 2026
+ * */
+
 package za.ac.cput.factory;
 
 import za.ac.cput.domain.Student;
@@ -6,7 +13,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
- class StudentTest {
+ class StudentFactoryTest {
   @Test
   void createStudent_ValidInput_ShouldCreateStudent() {
    // Arrange & Act
